@@ -89,6 +89,8 @@ We feel like this project, while not being technologically complex, impresses th
   
 </details>
 
+![](./docs/crane.gif)
+
 ## Credits
 >[!NOTE]
 >This project took roughly 15 hours to model, 30 hours to print and 16 hours to assemble and test.
