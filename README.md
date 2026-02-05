@@ -73,10 +73,21 @@ We feel like this project, while not being technologically complex, impresses th
 |Motor 3|IN1, IN2, IN3, IN4|18, 19, 21, 4|
 |Motor 4|IN1, IN2, IN3, IN4|16, 17, 5, 13|
 
+ <img width="1068" height="591" alt="2026-02-05_19-31-42" src="https://github.com/user-attachments/assets/b0878234-436f-4c96-a0da-9318aa8de3b5" />
+
 
 ## Pictures and Demo
-TODO
->pictures/demo placeholder
+<details>
+  <Summary>
+  Pictures  
+  </Summary>
+  
+  ![IMG_0712](https://github.com/user-attachments/assets/e0a4b685-b800-4495-9deb-28a8c96f397d)
+  ![IMG_0711](https://github.com/user-attachments/assets/74f67227-83f3-4f89-aa58-82faf17d7e46)
+  ![IMG_0710](https://github.com/user-attachments/assets/53cc46b1-6a1c-490a-9bb5-94e7e5c58f82)
+  ![IMG_0709](https://github.com/user-attachments/assets/b8c06bae-ed45-48b3-9a16-4b6426e42578)
+  
+</details>
 
 ## Credits
 >[!NOTE]
