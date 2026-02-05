@@ -82,10 +82,10 @@ We feel like this project, while not being technologically complex, impresses th
   Pictures  
   </Summary>
   
+  ![IMG_0709](https://github.com/user-attachments/assets/b8c06bae-ed45-48b3-9a16-4b6426e42578)
+  ![IMG_0710](https://github.com/user-attachments/assets/53cc46b1-6a1c-490a-9bb5-94e7e5c58f82)
   ![IMG_0712](https://github.com/user-attachments/assets/e0a4b685-b800-4495-9deb-28a8c96f397d)
   ![IMG_0711](https://github.com/user-attachments/assets/74f67227-83f3-4f89-aa58-82faf17d7e46)
-  ![IMG_0710](https://github.com/user-attachments/assets/53cc46b1-6a1c-490a-9bb5-94e7e5c58f82)
-  ![IMG_0709](https://github.com/user-attachments/assets/b8c06bae-ed45-48b3-9a16-4b6426e42578)
   
 </details>
 
