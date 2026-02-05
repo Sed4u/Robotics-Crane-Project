@@ -60,8 +60,9 @@ The easiest part was writing the code for the motors, as we used a pre-existing 
 We feel like this project, while not being technologically complex, impresses through its aesthetic and solid functionality. It's not perfect, but we had a great deal of fun designing it from the ground up, feeling like true engineers by coming up with creative ideas, adapting on the fly and getting better at it and improving the design through trial and error. As the last blueprint for the Robotics class, this is our _love letter_ and _passion project_.
 
 ## How to Control the Crane Assembly
-TODO
->image placeholder
+>These controlls are viable for both Xbox and Playstation controllers.
+<img width="1920" height="1080" alt="crane_project_controlls" src="https://github.com/user-attachments/assets/1c3d89e2-ad64-4215-a734-b98ec6b66851" />
+
 
 ## Pin Map
 TODO
